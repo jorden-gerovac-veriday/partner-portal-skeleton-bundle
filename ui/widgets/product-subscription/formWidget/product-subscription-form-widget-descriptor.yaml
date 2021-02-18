@@ -1,0 +1,6 @@
+code: product-subscription-form-widget
+titles:
+  en: Product Subscription Form Widget
+  it: Product Subscription Form Widget
+group: free
+customUiPath: product-subscription-form-widget.ftl

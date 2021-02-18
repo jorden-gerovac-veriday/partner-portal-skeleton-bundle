@@ -1,0 +1,6 @@
+code: dashboard-widget
+titles:
+  en: Dashboard Widget
+  it: Dashboard Widget
+group: free
+customUiPath: dashboard-widget.ftl

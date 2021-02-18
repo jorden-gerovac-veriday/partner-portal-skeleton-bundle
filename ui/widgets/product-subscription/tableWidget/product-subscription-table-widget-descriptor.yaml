@@ -1,0 +1,6 @@
+code: product-subscription-table-widget
+titles:
+  en: Product Subscription Table Widget
+  it: Product Subscription Table Widget
+group: free
+customUiPath: product-subscription-table-widget.ftl

@@ -1,0 +1,27 @@
+code: partnerportalskeleton-bundle
+description: This is the partnerPortalSkeleton bundle
+
+components:
+  plugins:
+    - plugins/partnerportalskeleton-plugin.yaml
+
+  widgets:
+    - ui/widgets/project/tableWidget/project-table-widget-descriptor.yaml
+    - ui/widgets/project/detailsWidget/project-details-widget-descriptor.yaml
+    - ui/widgets/project/formWidget/project-form-widget-descriptor.yaml
+    - ui/widgets/product-subscription/tableWidget/product-subscription-table-widget-descriptor.yaml
+    - ui/widgets/product-subscription/detailsWidget/product-subscription-details-widget-descriptor.yaml
+    - ui/widgets/product-subscription/formWidget/product-subscription-form-widget-descriptor.yaml
+    - ui/widgets/customer/tableWidget/customer-table-widget-descriptor.yaml
+    - ui/widgets/customer/detailsWidget/customer-details-widget-descriptor.yaml
+    - ui/widgets/customer/formWidget/customer-form-widget-descriptor.yaml
+    - ui/widgets/partner/tableWidget/partner-table-widget-descriptor.yaml
+    - ui/widgets/partner/detailsWidget/partner-details-widget-descriptor.yaml
+    - ui/widgets/partner/formWidget/partner-form-widget-descriptor.yaml
+    - ui/widgets/ticket/tableWidget/ticket-table-widget-descriptor.yaml
+    - ui/widgets/ticket/detailsWidget/ticket-details-widget-descriptor.yaml
+    - ui/widgets/ticket/formWidget/ticket-form-widget-descriptor.yaml
+    - ui/widgets/customer/dashboard-widget/dashboard-widget-descriptor.yaml
+    - ui/widgets/customer/customer-dashboard-widget/customer-dashboard-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

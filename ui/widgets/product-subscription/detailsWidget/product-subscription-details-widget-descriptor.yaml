@@ -1,0 +1,6 @@
+code: product-subscription-details-widget
+titles:
+  en: Product Subscription Details Widget
+  it: Product Subscription Details Widget
+group: free
+customUiPath: product-subscription-details-widget.ftl
